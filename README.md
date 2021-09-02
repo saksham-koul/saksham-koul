@@ -7,7 +7,7 @@
     * [CodeChef](https://www.codechef.com/users/skoul2001)
     * [Codeforces](https://codeforces.com/profile/skoul20) 
     * [HackerRank](https://www.hackerrank.com/sakshamkoul2001)
-- 😄 Pronouns: He/ His
+- 😄 Pronouns: He/ Him/ His
 - ⚡ Fun fact: I love quizzing and was an avid quizzer in my schooling days!
 
 
