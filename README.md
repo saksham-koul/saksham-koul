@@ -1,7 +1,7 @@
 ### Hi there, I am Saksham Koul.👋
 
 - 🔭 I’m currently working on getting better at Competitive Programming and Problem Solving in general.
-- 🌱 I’m currently learning different Competitive Programming concepts and would dabble into development soon.
+- 🌱 I’m currently learning different Competitive Programming concepts and web development.
 - 📫 How to reach me:
     * [LinkedIn](https://www.linkedin.com/in/saksham-koul-aaa481205/)
     * [CodeChef](https://www.codechef.com/users/skoul2001)
@@ -12,4 +12,4 @@
 
 
 ## Skills
-`C` `C++` `Python` `SQL` 
+`C` `C++` `Python` `SQL` `HTML` `CSS`
